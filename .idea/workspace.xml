@@ -2,20 +2,478 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a240925d-fdfb-4f04-88cb-12b9f757d606" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/koala_op.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/views/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/views/account.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ak.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/fl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/hi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/mi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/nd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/nh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/nj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/nm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/nv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/oh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/or.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ri.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/tx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/ut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/vt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/wa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/wi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/wv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/images/flags/wy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/koala_op/account.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/koala_op/account.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/jquery-3.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/css/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/css/select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/sr-Cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/i18n/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/select2.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/select2.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/dist/js/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/basics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/disabled-mode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/disabled-results.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/hide-search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/localization-rtl-diacritics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/matcher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/multiple-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/placeholders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/programmatic-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/tags.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/themes-templating-responsive-design.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/examples/tokenizer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/ga.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/js-source-states.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/nav/announcements-4.0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/nav/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/nav/options-old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/nav/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/notice-previous.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options-old/adapters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options-old/backwards-compatibility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options-old/core-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options-old/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options-old/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options-old/setting-default-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/compatibility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/compatibility/initial-selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/compatibility/introduction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/compatibility/matcher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/compatibility/query-function.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/compatibility/text-input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/core.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/core/amd-support.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/core/data-attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/core/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/data/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/data/array.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/data/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/dropdown/filtering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/dropdown/placement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/dropdown/selections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/events/internal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/events/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/introduction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/not-written.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/selections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/selections/clearing-selections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/selections/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/selections/placeholder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/options/selections/templating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_includes/social-buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_layouts/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_anchorjs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_dl-panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_examples.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_featurette.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_hamburger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_home.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_prettify.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_result-repository.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_sidenav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_social.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_syntax-highlighting.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_button-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_component-animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_dropdowns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_glyphicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_input-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_modals.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_navs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_pager.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_popovers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_progress-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_responsive-embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_responsive-utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_thumbnails.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/_wells.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_center-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_opacity.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_progress-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_reset-filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_tab-focus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_text-overflow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/_sass/vendor/font-awesome/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/announcements-4.0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/community.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/css/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/css/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/css/s2-docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/options-old.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/js/anchor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/js/placeholders.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/docs/vendor/js/prettify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/select2.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/banner.end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/banner.start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/jquery.mousewheel.shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/jquery.select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/jquery.shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/compat/containerCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/compat/dropdownCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/compat/initSelection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/compat/inputData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/compat/matcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/compat/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/compat/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/maximumInputLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/maximumSelectionLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/minimumInputLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/tags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/tokenizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/diacritics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/attachBody.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/attachContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/closeOnSelect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/hidePlaceholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/infiniteScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/minimumResultsForSearch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/selectOnClose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/dropdown/stopPropagation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/sr-Cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/i18n/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/results.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/allowClear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/clickMask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/eventRelay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/selection/stopPropagation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/translation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/wrapper.end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/wrapper.start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/_multiple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/_single.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/theme/classic/_defaults.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/theme/classic/_multiple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/theme/classic/_single.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/theme/classic/layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/theme/default/_multiple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/theme/default/_single.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/scss/theme/default/layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/a11y/search-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/a11y/selection-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/array-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/base-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/inputData-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/maximumInputLength-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/maximumSelectionLength-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/minimumInputLength-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/select-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/tags-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/data/tokenizer-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/dropdown/dropdownCss-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/dropdown/positioning-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/dropdown/selectOnClose-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/dropdown/stopPropagation-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/integration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/integration/select2-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/options/ajax-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/options/data-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/options/deprecated-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/options/translation-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/options/width-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/selection/allowClear-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/selection/containerCss-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/selection/multiple-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/selection/placeholder-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/selection/search-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/selection/single-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/selection/stopPropagation-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/unit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/utils/decorator-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/utils/escapeMarkup-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/vendor/jquery-1.7.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/vendor/qunit-1.14.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/tests/vendor/qunit-1.14.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/vendor/jquery-2.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/vue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/koala_op/account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koala_op/settings.py" afterPath="$PROJECT_DIR$/koala_op/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koala_op/urls.py" afterPath="$PROJECT_DIR$/koala_op/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koala_op/views/account.py" afterPath="$PROJECT_DIR$/koala_op/views/account.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,23 +485,68 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="account.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/koala_op/views/account.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koala_op/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding>
-                <element signature="e#16#71#0" expanded="true" />
+                <element signature="e#642#674#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koala_op/wsgi.py">
+      <file leaf-file-name="account.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/koala_op/account.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#D#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/reset.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="745">
+              <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/koala_op/account.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -52,13 +555,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koala_op/urls.py">
+      <file leaf-file-name="account.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/koala_op/account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="420">
+              <caret line="49" column="55" lean-forward="false" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koala_op/views/account.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding>
-                <element signature="e#642#674#0" expanded="true" />
+                <element signature="e#16#71#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,8 +583,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TEMPLATE_DIRS</find>
+      <find>base_dir</find>
+      <find>delimiters</find>
+      <find>middl</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,9 +603,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/koala_op/templates/base.html" />
+        <option value="$PROJECT_DIR$/koala_op/static/js/account.js" />
+        <option value="$PROJECT_DIR$/static/js/account.js" />
+        <option value="$PROJECT_DIR$/static/css/rest.css" />
+        <option value="$PROJECT_DIR$/static/css/koala_op/account.css" />
+        <option value="$PROJECT_DIR$/static/css/reset.css" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/koala_op/settings.py" />
-        <option value="$PROJECT_DIR$/koala_op/views/account.py" />
         <option value="$PROJECT_DIR$/koala_op/urls.py" />
+        <option value="$PROJECT_DIR$/static/js/util.js" />
+        <option value="$PROJECT_DIR$/templates/koala_op/account.html" />
+        <option value="$PROJECT_DIR$/static/js/koala_op/account.js" />
+        <option value="$PROJECT_DIR$/koala_op/views/account.py" />
       </list>
     </option>
   </component>
@@ -137,6 +671,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="file" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp_file" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="op" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -155,42 +757,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="koala_op" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="koala_op" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="koala_op" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="koala_op" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="koala_op" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="koala_op" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -201,6 +767,22 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;Database.Settings&#10;url&#9;FILE&#9;file:///Users/wangfeng/PycharmProjects/koala_op/koala_op/urls.py" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/js/koala_op" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/libs" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/koala_op" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
   </component>
   <component name="RunManager" selected="Django server.koala_op">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -465,6 +1047,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a240925d-fdfb-4f04-88cb-12b9f757d606" name="Default" comment="" />
@@ -477,15 +1062,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25250357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25250357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -495,9 +1081,28 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25250357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -536,30 +1141,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koala_op/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/op/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koala_op/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="e#642#674#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -580,10 +1167,175 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/static/js/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10080">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/libs/bootstrap-3.3.7-dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/libs/jquery-3.2.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="1" column="2731" lean-forward="true" selection-start-line="1" selection-start-column="2731" selection-end-line="1" selection-end-column="2731" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/libs/select2-4.0.2-rc.1/src/js/select2/data/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/libs/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25470">
+          <caret line="7539" column="44" lean-forward="false" selection-start-line="7539" selection-start-column="44" selection-end-line="7539" selection-end-column="44" />
+          <folding>
+            <marker date="1490023703000" expanded="true" signature="236124:236133" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#642#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/tmp_file/account.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/tmp_file/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#D#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/koala_op/account.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/koala_op/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="49" column="55" lean-forward="false" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/koala_op/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/tmp_file/class51.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/tmp_file/class52.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/koala_op/views/account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="384">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding>
             <element signature="e#16#71#0" expanded="true" />
           </folding>

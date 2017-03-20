@@ -19,5 +19,8 @@ from koala_op.views import account
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^account/', account.index)
+
+    url(r'^account/$', account.index),
+    url(r'^account/upload/$', account.upload),
+
 ]
