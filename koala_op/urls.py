@@ -22,5 +22,9 @@ urlpatterns = [
 
     url(r'^account/$', account.index),
     url(r'^account/upload/$', account.upload),
+    url(r'^account/get_sub_area/$', account.get_sub_area),
+    url(r'^account/create_school_master/$', account.create_school_master),
+    url(r'^account/create_class/$', account.create_class),
+    url(r'^account/create_students/$', account.create_students),
 
 ]

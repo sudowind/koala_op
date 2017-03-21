@@ -1,13 +1,611 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a240925d-fdfb-4f04-88cb-12b9f757d606" name="Default" comment="" />
+    <list default="true" id="a240925d-fdfb-4f04-88cb-12b9f757d606" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/flash/ZeroClipboard.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/images/alipay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/images/alipayLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/images/paypalLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/images/weixin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/images/weixinLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/tree-column/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/account.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/logic/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/koala_op/logic/account_controller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/.github/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/DONATORS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/bootstrap-table.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/bootstrap-table-locale-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/bootstrap-table-locale-all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/bootstrap-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/bootstrap-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/bootstrap-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/bootstrap-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/angular/bootstrap-table-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/angular/bootstrap-table-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/click-edit-row/bootstrap-table-click-edit-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/click-edit-row/bootstrap-table-click-edit-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/click-edit-row/bootstrap-table-click-edit-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/cookie/bootstrap-table-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/cookie/bootstrap-table-cookie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/copy-rows/bootstrap-table-copy-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/copy-rows/bootstrap-table-copy-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/editable/bootstrap-table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/editable/bootstrap-table-editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/export/bootstrap-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/export/bootstrap-table-export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/filter-control/bootstrap-table-filter-control.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/filter-control/bootstrap-table-filter-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/filter-control/bootstrap-table-filter-control.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/filter/bootstrap-table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/filter/bootstrap-table-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/flat-json/bootstrap-table-flat-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/flat-json/bootstrap-table-flat-json.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/group-by-v2/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/group-by-v2/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/group-by-v2/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/group-by/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/group-by/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/group-by/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/key-events/bootstrap-table-key-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/key-events/bootstrap-table-key-events.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/mobile/bootstrap-table-mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/mobile/bootstrap-table-mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multiple-search/bootstrap-table-multiple-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/print/bootstrap-table-print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/print/bootstrap-table-print.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/resizable/bootstrap-table-resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/resizable/bootstrap-table-resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/select2-filter/bootstrap-table-select2-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/select2-filter/bootstrap-table-select2-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/sticky-header/bootstrap-table-sticky-header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/sticky-header/bootstrap-table-sticky-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/toolbar/bootstrap-table-toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/toolbar/bootstrap-table-toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/tree-column/bootstrap-table-tree-column.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/tree-column/bootstrap-table-tree-column.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/extensions/tree-column/bootstrap-table-tree-column.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-af-ZA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-af-ZA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ar-SA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ar-SA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ca-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-cs-CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-da-DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-de-DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-el-GR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-en-US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-CL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-CR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-CR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-MX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-MX.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-NI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-NI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-SP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-es-SP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-et-EE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-et-EE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-fa-IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-fa-IR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-fr-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-fr-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-fr-FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-he-IL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-he-IL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-hr-HR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-hr-HR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-hu-HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-id-ID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-id-ID.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-it-IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ja-JP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ka-GE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ka-GE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ko-KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ms-MY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ms-MY.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-nb-NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-nl-NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-pl-PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-pt-PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ro-RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ro-RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ru-RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-sk-SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-sv-SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-th-TH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-tr-TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-uk-UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ur-PK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-ur-PK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-uz-Latn-UZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-uz-Latn-UZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-vi-VN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/dist/locale/bootstrap-table-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/documentation/column-options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/documentation/events.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/documentation/localizations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/documentation/methods.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/documentation/table-options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/donate.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/faq/faq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/getting-started/download.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/getting-started/grunt.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/getting-started/usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/getting-started/whats-include.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/en/home/feature.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/documentation/column-options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/documentation/events.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/documentation/localizations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/documentation/methods.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/documentation/table-options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/donate.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/faq/faq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/getting-started/download.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/getting-started/grunt.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/getting-started/usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/getting-started/whats-include.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/es/home/feature.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/documentation/column-options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/documentation/events.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/documentation/localizations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/documentation/methods.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/documentation/table-options.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/donate.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/faq/faq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/getting-started/download.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/getting-started/grunt.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/getting-started/usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/getting-started/whats-include.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_i18n/zh-cn/home/feature.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_includes/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_includes/latest-release.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_includes/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_includes/social-buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_layouts/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_plugins/markdown-tag.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/_plugins/multiple-languages.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/css/docs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/css/sidenav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/customize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/docs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/ie8-responsive-file-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/assets/js/sidenav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/data/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/data/data1/demo.response.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/data/data2/demo.response.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/data/data3/demo.response.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/data/data4/demo.response.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/data/data5/demo.response.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/data/extensions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/bootstrap-table-locale-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/bootstrap-table-locale-all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/bootstrap-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/bootstrap-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/bootstrap-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/bootstrap-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/accent-neutralise/bootstrap-table-accent-neutralise.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/angular/bootstrap-table-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/angular/bootstrap-table-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/click-edit-row/bootstrap-table-click-edit-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/click-edit-row/bootstrap-table-click-edit-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/click-edit-row/bootstrap-table-click-edit-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/cookie/bootstrap-table-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/cookie/bootstrap-table-cookie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/copy-rows/bootstrap-table-copy-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/copy-rows/bootstrap-table-copy-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/editable/bootstrap-table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/editable/bootstrap-table-editable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/export/bootstrap-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/export/bootstrap-table-export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/filter-control/bootstrap-table-filter-control.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/filter-control/bootstrap-table-filter-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/filter-control/bootstrap-table-filter-control.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/filter/bootstrap-table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/filter/bootstrap-table-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/flat-json/bootstrap-table-flat-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/flat-json/bootstrap-table-flat-json.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/group-by-v2/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/group-by-v2/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/group-by-v2/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/group-by/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/group-by/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/group-by/bootstrap-table-group-by.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/i18n-enhance/bootstrap-table-i18n-enhance.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/key-events/bootstrap-table-key-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/key-events/bootstrap-table-key-events.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/mobile/bootstrap-table-mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/mobile/bootstrap-table-mobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multi-column-toggle/bootstrap-table-multi-toggle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multiple-search/bootstrap-table-multiple-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/multiple-sort/bootstrap-table-multiple-sort.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/natural-sorting/bootstrap-table-natural-sorting.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/print/bootstrap-table-print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/print/bootstrap-table-print.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/reorder-rows/bootstrap-table-reorder-rows.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/resizable/bootstrap-table-resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/resizable/bootstrap-table-resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/select2-filter/bootstrap-table-select2-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/select2-filter/bootstrap-table-select2-filter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/sticky-header/bootstrap-table-sticky-header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/sticky-header/bootstrap-table-sticky-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/toolbar/bootstrap-table-toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/toolbar/bootstrap-table-toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/tree-column/bootstrap-table-tree-column.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/tree-column/bootstrap-table-tree-column.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/extensions/tree-column/bootstrap-table-tree-column.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-af-ZA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-af-ZA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ar-SA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ar-SA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ca-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-cs-CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-da-DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-de-DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-el-GR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-en-US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-CL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-CR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-CR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-ES.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-MX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-MX.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-NI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-NI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-SP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-es-SP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-et-EE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-et-EE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-fa-IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-fa-IR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-fr-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-fr-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-fr-FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-he-IL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-he-IL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-hr-HR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-hr-HR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-hu-HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-id-ID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-id-ID.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-it-IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ja-JP.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ka-GE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ka-GE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ko-KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ms-MY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ms-MY.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-nb-NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-nl-NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-pl-PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-pt-PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ro-RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ro-RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ru-RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-sk-SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-sv-SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-th-TH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-tr-TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-uk-UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ur-PK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-ur-PK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-uz-Latn-UZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-uz-Latn-UZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-vi-VN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/dist/locale/bootstrap-table-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/documentation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/donate.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/examples.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/extensions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/faq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/getting-started.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/docs/sitemap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/bootstrap-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/bootstrap-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/accent-neutralise/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/accent-neutralise/bootstrap-table-accent-neutralise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/accent-neutralise/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/angular/bootstrap-table-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/auto-refresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/auto-refresh/bootstrap-table-auto-refresh.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/auto-refresh/bootstrap-table-auto-refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/auto-refresh/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/click-edit-row/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/click-edit-row/bootstrap-table-click-edit-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/click-edit-row/bootstrap-table-click-edit-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/cookie/bootstrap-table-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/cookie/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/copy-rows/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/copy-rows/bootstrap-table-copy-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/copy-rows/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/editable/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/editable/bootstrap-table-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/editable/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/export/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/export/bootstrap-table-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/export/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/filter-control/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/filter-control/bootstrap-table-filter-control.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/filter-control/bootstrap-table-filter-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/filter-control/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/filter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/filter/bootstrap-table-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/filter/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/flat-json/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/flat-json/bootstrap-table-flat-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/flat-json/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by-v2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by-v2/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by-v2/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by-v2/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by/bootstrap-table-group-by.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by/bootstrap-table-group-by.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/group-by/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/i18n-enhance/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/i18n-enhance/bootstrap-table-i18n-enhance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/i18n-enhance/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/key-events/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/key-events/bootstrap-table-key-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/key-events/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/mobile/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/mobile/bootstrap-table-mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/mobile/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multi-column-toggle/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multi-column-toggle/bootstrap-table-multi-toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multi-column-toggle/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-search/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-search/bootstrap-table-multiple-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-search/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-selection-row/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-selection-row/bootstrap-table-multiple-selection-row.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-selection-row/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-sort/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-sort/bootstrap-table-multiple-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/multiple-sort/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/natural-sorting/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/natural-sorting/bootstrap-table-natural-sorting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/natural-sorting/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/print/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/print/bootstrap-table-print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/reorder-columns/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/reorder-columns/bootstrap-table-reorder-columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/reorder-columns/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/reorder-rows/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/reorder-rows/bootstrap-table-reorder-rows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/reorder-rows/bootstrap-table-reorder-rows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/reorder-rows/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/resizable/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/resizable/bootstrap-table-resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/resizable/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/select2-filter/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/select2-filter/bootstrap-table-select2-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/select2-filter/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/sticky-header/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/sticky-header/bootstrap-table-sticky-header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/sticky-header/bootstrap-table-sticky-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/sticky-header/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/toolbar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/toolbar/bootstrap-table-toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/toolbar/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/tree-column/bootstrap-table-tree-column.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/tree-column/bootstrap-table-tree-column.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/tree-column/bootstrap-table-tree-column.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/extensions/tree-column/extension.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-af-ZA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ar-SA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ca-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-cs-CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-da-DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-el-GR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-en-US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-en-US.js.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-es-AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-es-CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-es-CR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-es-ES.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-es-MX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-es-NI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-es-SP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-et-EE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-fa-IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-fr-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-fr-FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-he-IL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-hr-HR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-hu-HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-id-ID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-it-IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ka-GE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ko-KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ms-MY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-nb-NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-nl-NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-pl-PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ro-RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ru-RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-sk-SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-sv-SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-th-TH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-tr-TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-uk-UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-ur-PK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-uz-Latn-UZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-vi-VN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/bootstrap-table-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/koala_op/account/student_table.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/koala_op/account.html" afterPath="$PROJECT_DIR$/templates/koala_op/account/account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koala_op/urls.py" afterPath="$PROJECT_DIR$/koala_op/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koala_op/views/account.py" afterPath="$PROJECT_DIR$/koala_op/views/account.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/koala_op/account.js" afterPath="$PROJECT_DIR$/static/js/koala_op/account.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/koala_op$account_controller.coverage" NAME="account_controller Coverage Results" MODIFIED="1490095425252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/koala_op/logic" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -21,8 +619,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koala_op/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="432">
+              <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
               <folding>
                 <element signature="e#642#674#0" expanded="true" />
               </folding>
@@ -30,43 +628,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="account.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/koala_op/account.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/util.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc;n#D#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/reset.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="386">
+              <caret line="195" column="0" lean-forward="false" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,22 +649,74 @@
         </entry>
       </file>
       <file leaf-file-name="account.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/koala_op/account.html">
+        <entry file="file://$PROJECT_DIR$/templates/koala_op/account/account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="49" column="55" lean-forward="false" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+            <state relative-caret-position="393">
+              <caret line="66" column="69" lean-forward="false" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="account.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koala_op/views/account.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
               <folding>
-                <element signature="e#16#71#0" expanded="true" />
+                <element signature="e#15#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/file/tmp_file/account.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koala_op/logic/account.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student_table.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/koala_op/account/student_table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account_controller.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koala_op/logic/account_controller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1231">
+              <caret line="142" column="70" lean-forward="true" selection-start-line="142" selection-start-column="70" selection-end-line="142" selection-end-column="70" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,10 +727,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -122,6 +740,7 @@
       <find>base_dir</find>
       <find>delimiters</find>
       <find>middl</find>
+      <find>cookie</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,13 +755,18 @@
         <option value="$PROJECT_DIR$/static/css/rest.css" />
         <option value="$PROJECT_DIR$/static/css/koala_op/account.css" />
         <option value="$PROJECT_DIR$/static/css/reset.css" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/koala_op/settings.py" />
-        <option value="$PROJECT_DIR$/koala_op/urls.py" />
         <option value="$PROJECT_DIR$/static/js/util.js" />
         <option value="$PROJECT_DIR$/templates/koala_op/account.html" />
-        <option value="$PROJECT_DIR$/static/js/koala_op/account.js" />
+        <option value="$PROJECT_DIR$/templates/koala_op/account/student_table.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/koala_op/urls.py" />
         <option value="$PROJECT_DIR$/koala_op/views/account.py" />
+        <option value="$PROJECT_DIR$/templates/koala_op/account/account.html" />
+        <option value="$PROJECT_DIR$/account.csv" />
+        <option value="$PROJECT_DIR$/koala_op/logic/account_controller.py" />
+        <option value="$PROJECT_DIR$/static/file/tmp_file/account.csv" />
+        <option value="$PROJECT_DIR$/static/js/koala_op/account.js" />
       </list>
     </option>
   </component>
@@ -157,6 +781,7 @@
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -217,6 +842,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="account" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -284,6 +913,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koala_op" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -297,11 +962,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="editor.config.accepted" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;Database.Settings&#10;url&#9;FILE&#9;file:///Users/wangfeng/PycharmProjects/koala_op/koala_op/urls.py" />
+    <property name="SearchEverywhereHistoryKey" value="setting&#9;FILE&#9;file:///Users/wangfeng/PycharmProjects/koala_op/koala_op/settings.py&#10;settings&#9;ACTION&#9;Database.Settings&#10;url&#9;FILE&#9;file:///Users/wangfeng/PycharmProjects/koala_op/koala_op/urls.py" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/koala_op/account" />
       <recent name="$PROJECT_DIR$/static/js/koala_op" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -311,7 +977,25 @@
       <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Django server.koala_op">
+  <component name="RunManager" selected="Python.account_controller">
+    <configuration default="false" name="account_controller" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/koala_op/logic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="koala_op" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/koala_op/logic/account_controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -567,9 +1251,15 @@
       <option name="customRunCommand" value="runserver 0.0.0.0:8000" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Django server.koala_op" />
+      <item index="1" class="java.lang.String" itemvalue="Python.account_controller" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.account_controller" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -591,16 +1281,17 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25250357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16237482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -614,19 +1305,20 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25250357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16237482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
@@ -754,14 +1446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koala_op/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="745">
@@ -770,35 +1454,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koala_op/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="e#642#674#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/file/tmp_file/account.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/file/tmp_file/account.py">
@@ -819,30 +1477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/koala_op/account.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/koala_op/account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="49" column="55" lean-forward="false" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/koala_op/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/file/tmp_file/class51.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -859,13 +1493,113 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/libs/bootstrap-table-1.11.1/src/locale/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="90" lean-forward="false" selection-start-line="18" selection-start-column="90" selection-end-line="18" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding>
+            <element signature="e#642#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/file/tmp_file/account.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/logic/account.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/koala_op/account/student_table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koala_op/logic/account_controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1231">
+          <caret line="142" column="70" lean-forward="true" selection-start-line="142" selection-start-column="70" selection-end-line="142" selection-end-column="70" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/koala_op/account.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/koala_op/account/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="66" column="69" lean-forward="false" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/koala_op/views/account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
           <folding>
-            <element signature="e#16#71#0" expanded="true" />
+            <element signature="e#15#55#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/koala_op/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="195" column="0" lean-forward="false" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

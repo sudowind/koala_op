@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+<div class="row">
+    <div class="col-md-12">
+        <h3>Koala 运营后台(demo)</h3>
+        <label for="province">省份:</label>
+        <select id="province" class="col-md-2 select2">
+            {% for p in provinces %}
+                <option value="{{ p.id }}">{{ p.regionName }}</option>
+            {% endfor %}
+        </select>
+        <label for="city">城市:</label>
+        <select name="city" id="city" class="col-md-2 select2">
+            {% for c in cities %}
+                <option value="{{ c.id }}">{{ c.regionName }}</option>
+            {% endfor %}
+        </select>
+        <label for="district">区/县:</label>
+        <select name="district" id="district" class="col-md-2 select2">
+            {% for d in districts %}
+                <option value="{{ d.regionCode }}">{{ d.regionName }}</option>
+            {% endfor %}
+        </select>
+        <label for="school">学校:</label>
+        <select name="school" id="school" class="col-md-2 select2">
+            {% for s in schools %}
+                <option value="{{ s.id }}">{{ s.name }}</option>
+            {% endfor %}
+        </select>
+        <div class="btn btn-primary" onclick="account.create_school_master();">创建校长</div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        校长账号：<span id="school_master"></span>
+    </div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <label for="grade">年级:</label>
+        <select name="grade" id="grade" class="select2 col-md-2">
+            <option value="2016">一年级</option>
+            <option value="2015">二年级</option>
+            <option value="2014">三年级</option>
+            <option value="2013">四年级</option>
+            <option value="2012">五年级</option>
+            <option value="2011">六年级</option>
+        </select>
+        <label for="class">班级:</label>
+        <input type="text" id="class" class="input">
+        <div class="btn btn-primary" onclick="account.create_class();">创建班级</div>
+        <span id="class_info"></span>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+
+    </div>
+</div>
+<hr />
+<div class="row">
+    <form class="col-md-12 form-inline" id="upload_form">
+        <input type="file" id="student_file" name="student_file" class="form-group">
+        <div class="btn btn-default" onclick="account.submit_file();">提交</div>
+        <div class="btn btn-default" onclick="account.create_students();">创建学生</div>
+    </form>
+</div>
+<div class="row">
+    <div class="col-md-12" id="student_table"></div>
+</div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{% load static %}
+    <script src="{% static "js/koala_op/account.js" %}"></script>
+    <script>
+    document.onload = function () {
+        $('.select2').select2();
+
+        account.init();
+    }();
+    </script>
+{% endblock %}
