@@ -1,2 +1,3 @@
 static/file/tmp_file/*
 .idea/*
+*.pyc
